@@ -190,4 +190,4 @@ This project was developed collaboratively by:
 
 ---
 
-*Built for the Data Structures & Algorithms course — Spring 2026.*
+*Built for the Data Structures course — Spring 2026.*
