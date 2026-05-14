@@ -1,0 +1,49 @@
+# Compiled binaries
+iron_nexus
+iron_nexus.exe
+*.o
+*.obj
+*.out
+a.out
+
+# IDE / editor folders
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+*.vcxproj.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Runtime-generated save files
+trains.txt
+trains_structure.txt
+coaches_*.txt
+*_coach_*.txt
+network.txt
+network_structure.txt
+operations.txt
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Visual Studio
+.vs/
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# User-specific files
+*.user
+*.suo
+
+# Cache/temp
+*.VC.db
